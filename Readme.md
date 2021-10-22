@@ -1,2 +1,1 @@
-Testando um novo projeto
-!!!!
+Projeto realizado com o objetivo de explorar tecnologias novas no mercado.
